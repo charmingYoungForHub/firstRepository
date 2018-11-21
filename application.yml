@@ -10,6 +10,6 @@ spring:
   
 ---
 spring:
-  profiles: dev
+  profiles: pro
   application:
-    name: springcloud-dev
+    name: springcloud-pro
